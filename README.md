@@ -41,6 +41,8 @@ cd SAMF-YOLO
 ```bash
 pip install -r requirements.txt
 ```
+3.NEU-DET dataset can be downloaded in:
+http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/index.htm
 
 ## Usage
 
